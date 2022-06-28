@@ -1,0 +1,45 @@
+.indent__section {
+    padding: 0 0 50px 0;
+}
+
+.indent__title {
+    font-weight: 900;
+    font-size: 36px;
+    max-width: 1077px;
+    min-height: 86px;
+    margin-bottom: 30px;
+}
+
+.indent__paragraph {
+    padding-bottom: 30px;
+}
+
+.indent__paragraph:last-child {
+    padding-bottom: 0;
+}
+
+.indent__image {
+    margin: 0 auto 30px auto;
+    display: block;
+}
+
+.block {
+    border: 1px solid #000000;
+    margin-bottom: 30px;
+}
+
+.block__image {
+    width: 1080px;
+    height: 427px;
+}
+
+.block__paragraph {
+    font-size: 20px;
+    font-weight: 400;
+    color: #5E5E5E;
+    padding: 15px 0 15px 30px;
+    width: 1020px;
+    height: 48px;
+    margin-bottom: 20px ;
+    text-align: left;
+}

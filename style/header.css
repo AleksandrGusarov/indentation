@@ -1,0 +1,49 @@
+.beginning {
+    padding: 60px 0 50px 0;
+    margin: 0 auto;
+}
+
+.container {
+    padding: 0 0;
+}
+
+.beginning__title {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 72px;
+    margin-bottom: 30px;
+    max-width: 1080px;
+    min-height: 72px;
+}
+
+.beginning__paragraph {
+    font-weight: 400;
+    font-size: 20px;
+    white-space: pre-line;
+}
+
+.navigation {
+    padding: 0 0;
+    background-color: #F1F1F1;
+    max-width: 1140px;
+    min-height: 215px;
+    margin: 0 auto;
+}
+
+.navigation__title {
+    padding: 25px 0 0 45px;
+    font-weight: 700;
+    font-size: 44px;
+    max-width: 276px;
+    min-height: 53px;
+}
+
+.navigation__list {
+    color: #02535F;
+    padding: 0 0 0 45px;
+}
+
+.navigation__item {
+    text-decoration-line: underline;
+    margin-bottom: 10px;
+}

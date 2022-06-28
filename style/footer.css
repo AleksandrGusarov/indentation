@@ -1,0 +1,10 @@
+.total {
+    padding: 25px 0 25px 45px;
+    background-color: #F1F1F1;
+    margin-bottom: 50px;
+}
+
+.total__list {
+    list-style-type: '— ';
+}
+
