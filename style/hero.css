@@ -1,5 +1,5 @@
 .hero {
-    padding: 50px 0 99px 0;
+    padding: 25px 0 50px 0;
 }
 
 .hero__title {
@@ -23,7 +23,7 @@
     font-size: 20px;
     font-weight: 400;
     white-space: pre-line;
-    margin-bottom: 130px;
+    margin-bottom: 115px;
 }
 
 .hero__image_second {
@@ -37,5 +37,8 @@
     font-size: 20px;
     font-weight: 400;
     white-space: pre-line;
+    max-width: 480px;
+    min-height: 132px;
+    line-height: 26px;
 
 }
