@@ -5,6 +5,7 @@
 .total div {
     padding: 25px 0 25px 45px;
     background-color: #F1F1F1;
+    border-radius: 10px;
 }
 
 .total__list {
